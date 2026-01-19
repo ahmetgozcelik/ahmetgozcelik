@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hello, I'm Ahmet Gürkan Özçelik, passionate about game development!<br><br>
+  Hello, I'm Ahmet Gürkan Özçelik, passionate about .NET Ecosystem!<br><br>
   <img align="center" height="300" src="https://media.giphy.com/media/3oEjI1erPMTMBFmNHi/giphy.gif" alt="Game Development GIF"/>
 </h2>
 

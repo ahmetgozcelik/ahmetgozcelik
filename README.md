@@ -1,6 +1,6 @@
 <h1 align="center">Ahmed Gürkan Özçelik</h1>
 <h3 align="center">Software Engineer</h3>
-<p align="center">Junior Software Engineer | .NET Ecosystem & Embedded Systems</p>
+<p align="center">Junior Software Engineer | Embedded Systems</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/3oEjI1erPMTMBFmNHi/giphy.gif" height="250" alt="Cinematic GIF"/>

@@ -18,7 +18,7 @@ My main interests are **Embedded Systems** and **Defense Technologies**, with a 
 
 ---
 
-### Technical Skill
+### Technical Skills
 <table>
   <tr>
     <td><b>Languages</b></td>

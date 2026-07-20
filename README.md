@@ -13,7 +13,7 @@
 <br/>
 
 ### About Me
-I am a Software Engineer dedicated to continuous learning and technical growth. I am currently pursuing a Master's degree in Software Engineering at **Ostim Technical University**.
+I am Software Engineer dedicated to continuous learning and technical growth. I am currently pursuing a Master's degree in Software Engineering at **Ostim Technical University**.
 My main interests are **Embedded Systems** and **Defense Technologies**, with a focus on connecting software architecture with low-level hardware communication.
 
 ---

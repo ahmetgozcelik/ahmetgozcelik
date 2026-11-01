@@ -1,6 +1,6 @@
 <!-- Palette: Espresso #2B1D14 · Walnut #4A3222 · Mocha #5E4130 · Camel #7A5538 · Sand #C4AA88 · Linen #EFE5D6 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B1D14,100:7A5538&height=170&section=header&text=Ahmet%20G%C3%BCrkan%20%C3%96z%C3%A7elik&fontSize=38&fontColor=EFE5D6&fontAlignY=38&desc=Software%20Engineer&descSize=16&descAlignY=58&descAlign=50" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B1D14,100:7A5538&height=170&section=header&text=Ahmed%20G%C3%BCrkan%20%C3%96z%C3%A7elik&fontSize=38&fontColor=EFE5D6&fontAlignY=38&desc=Software%20Engineer&descSize=16&descAlignY=58&descAlign=50" width="100%" alt="header" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=7A5538&center=true&vCenter=true&width=520&lines=Embedded+Systems+%26+Defense+Technologies;Bridging+software+architecture+and+hardware;CAN+%2F+J1939+%2F+Modbus+%E2%80%94+talking+to+ECUs" alt="typing" />

@@ -22,7 +22,7 @@ My main interests are **Embedded Systems** and **Defense Technologies**, with a 
 ```csharp
 public sealed class Engineer
 {
-    public string Name      => "Ahmet Gürkan Özçelik";
+    public string Name      => "Ahmed Gürkan Özçelik";
     public string Location  => "Ankara, Türkiye";
     public string Education => "M.Sc. Software Engineering @ Ostim Technical University";
 
